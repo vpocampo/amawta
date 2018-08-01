@@ -1,52 +1,13 @@
-body{
-    color:#696969 ;
-    font-style: italic;
-    font-display: initial
-    background-color: #C9EAF3; 
-    background-blend-mode: lighten  
-}
-h1, h2, h3{
-    background-color: #7BCAE1;
-    width: 100%
-   
-}
-.otracosa{
-    font-family:  Roboto
-}
-#hache1{
-    background-color: aqua;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 365 em
-
-}
-h5{
-    background-color: aqua;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 30em
-    }
-.header{
-
-}
-.green_w3{
-    background: url("https://www.w3schools.com/images/w3schools_green.jpg");
-    height: 300px;
-    width: 200px;
-    background-size: contain;
-    background-repeat: no-repeat;
-
+* {
+  font-family: 'Open Sans', sans-serif;
 }
 
-.arbol{
-    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aspen-PopulusTremuloides-2001-09-27.jpg/1024px-Aspen-PopulusTremuloides-2001-09-27.jpg");
-    height: 300px;
-    width: 200px;
-    background-size: contain;
-    background-repeat: no-repeat;
+#volver-home {
+ color: #9013FE;
+ display: inline-block;
+ text-decoration: none;
 }
-p {}
-
-img{
-    max-width:33%;
-    width:auto;
-    height:auto;
+p {
+  display: inline-block;
+  font-size: 10px;
 }
