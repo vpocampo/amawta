@@ -16,3 +16,12 @@ p {
   font-size: 14px;
   margin-left: 10px
 }
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline-block;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
