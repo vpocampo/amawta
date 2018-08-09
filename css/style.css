@@ -3,25 +3,39 @@
 }
 
 #volver-home {
- color: #000;
+ color: #000000;
  text-transform: capitalize;
  font-weight: bolder;
  font-size: 24px;
  display: inline-block;
  text-decoration: none;
 }
-
+#logo-amawta {
+  width: 175px;
+  display: inline-block;
+  }
 p {
   display: inline-block;
   font-size: 14px;
   margin-left: 10px
 }
+
+#navegador {
+ background-color: #EF5BA1;
+height: 77px;
+}
+
 #navegador ul{
    list-style-type: none;
    text-align: center;
+   inline-block;
 }
 #navegador li{
    display: inline-block;
    text-align: center;
-   margin: 0 10px 0 0;
+   margin: 0 100px 0 0;
 }
+}
+#navegador li{
+}
+/* aun no estan definidos los colores */
