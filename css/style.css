@@ -1,39 +1,45 @@
 * {
   font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-#volver-home {
- color: #000000;
- text-transform: capitalize;
- font-weight: bolder;
- font-size: 24px;
- display: inline-block;
- text-decoration: none;
-}
-#logo-amawta {
-  width: 175px;
-  display: inline-block;
+header {
+background-color: #FAEF6F;
   }
+
+#logo-amawta {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 570px;
+  display:block;
+  margin:auto;
+}
 p {
   display: inline-block;
   font-size: 14px;
-  margin-left: 10px
+  margin-left: 10px;
+  text-transform: capitalize;
 }
 
 #navegador {
- background-color: #EF5BA1;
-height: 77px;
+background-color: #28D6AF;
 }
 
 #navegador ul{
    list-style-type: none;
    text-align: center;
-   inline-block;
+   display: inline-block;
+  text-transform: capitalize;
+
 }
 #navegador li{
    display: inline-block;
    text-align: center;
-   margin: 0 100px 0 0;
+   margin: 0 200px 0 0;
+   font-variant: normal;
+  text-transform: capitalize;
 }
 }
 #navegador li{
