@@ -6,16 +6,17 @@
 }
 
 header {
-background-color: #FAEF6F;
-  }
+  background-color: #FAEF6F;
+}
 
 #logo-amawta {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 25px;
   width: 570px;
   display:block;
   margin:auto;
 }
+
 p {
   display: inline-block;
   font-size: 14px;
@@ -24,24 +25,22 @@ p {
 }
 
 #navegador {
-background-color: #28D6AF;
+  background-color: #28D6AF;
 }
 
 #navegador ul{
-   list-style-type: none;
-   text-align: center;
-   display: inline-block;
+  list-style-type: none;
+  text-align: center;
+  display: inline-block;
   text-transform: capitalize;
+  width: 100%;
+  margin: 5px 0;
+}
 
-}
 #navegador li{
-   display: inline-block;
-   text-align: center;
-   margin: 0 200px 0 0;
-   font-variant: normal;
-  text-transform: capitalize;
+  display: inline-block;
+  text-align: center;
+  font-variant: normal;
+  text-transform: lowercase;
+  width: 20%
 }
-}
-#navegador li{
-}
-/* aun no estan definidos los colores */
