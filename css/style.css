@@ -21,26 +21,27 @@ p {
   display: inline-block;
   font-size: 14px;
   margin-left: 10px;
-  text-transform: capitalize;
+  text-transform:capitalize;
 }
 
 #navegador {
-  background-color: #28D6AF;
+  background-color: #FFF;
+  height:40px;
 }
 
 #navegador ul{
   list-style-type: none;
   text-align: center;
   display: inline-block;
-  text-transform: capitalize;
-  width: 100%;
-  margin: 5px 0;
+  margin: 0px 0px 0px 0px;
+  position: absolute;
+  right:0px;
 }
-
 #navegador li{
   display: inline-block;
   text-align: center;
   font-variant: normal;
-  text-transform: lowercase;
-  width: 20%
+  text-transform: uppercase;
+  margin-left: 100px;
+
 }

@@ -1,4 +1,11 @@
 .contenedor {
-  width: 90%;
+  width: 85%;
   margin: 0 auto;
+}
+.ContenedorLarge {
+  width: 95%;
+  margin: 0 auto;
+  border-left: 70px;
+  border-right: 80px;
+  position:relative;
 }
