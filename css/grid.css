@@ -1,3 +1,4 @@
+/* Contenedores */
 .contenedor {
   width: 85%;
   margin: 0 auto;
@@ -8,4 +9,57 @@
   border-left: 70px;
   border-right: 80px;
   position:relative;
+}
+
+
+/* Fila */
+
+/* Columnas */
+
+.col-12 {
+  width: 100%;
+}
+
+.col-11 {
+  width: 91.663%;
+}
+
+.col-10 {
+  width: 83.33%;
+}
+
+.col-9 {
+  width: 74.997%;
+}
+
+.col-8 {
+  width: 66.664%;
+}
+
+.col-7 {
+  width: 58.331%;
+}
+
+.col-6 {
+  width: 50%;
+}
+
+.col-5 {
+  width: 41.665%;
+}
+
+.col-4 {
+  width: 33.333%;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.col-2 {
+  width: 16.666%;
+}
+
+.col-1 {
+  width: 8.333%;
 }
